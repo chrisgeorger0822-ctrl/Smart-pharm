@@ -1,0 +1,6 @@
+{
+  "name": "Smart Pharmacy Management System",
+  "description": "Comprehensive Java Swing & H2 Database Pharmacy Management System with interactive desktop UI simulator, complete Maven project source code, and 1-click project export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
